@@ -12,45 +12,29 @@ https://simpleicons.org/?q=aws
 
 Links Stats do Github:
 https://github.com/anuraghazra/github-readme-stats
-
-
 Link de cor em hexadecimal
 https://www.rapidtables.com/convert/color/rgb-to-hex.html
 
 Link da Documentação do Markdown:
 https://github.com/luong-komorebi/Markdown-Tutorial/blob/master/README_pt-BR.md
 -->
-
-
 <h1 align="left">Hi, I'm Bruno Sales 👨🏻‍💻</h1>
-
-
-
-
 
 <p align="left">I'm a Data Analytics</p>
 
-
-
 <h2 align="left">About me</h2>
-
-
 
 <p align="left">
   👨‍💻  Working with ETL, RPA and web scraping<br>
   🧠  I specialize in Neuroscience applied to education<br>
   ☁  I'm currently focusing on the stack AWS <br>
   🎲  I'm studying the MBA in Data Engineering at IGTI - XPE<br>
-  💰  In my free time I try to learn about stocks, investments, financial education<br>
-  🎵  Among my hobbies are dancing, music, percussion, RPG games<br>
+  💰  In my free time I try to learn about stocks, investments and financial education<br>
+  🎵  Among my hobbies are dancing, music, percussion and ORPG games
 </p>
    
   
-
-
 <h2 align="left">Connect with me</h2>
-
-
 
 <div align="left">
   <a href="https://www.linkedin.com/in/bruno-sales/" target="_blank">
@@ -67,52 +51,42 @@ https://github.com/luong-komorebi/Markdown-Tutorial/blob/master/README_pt-BR.md
   </a>
 </div>
 
-
-
 <h2 align="left">I code with</h2>
-
-
 
 <p>
 
 ![Advanced](https://img.shields.io/static/v1?label=%20&message=Advanced:&color=red)
-![Python](https://img.shields.io/static/v1?label=%20&logo=python&logoColor=green&color=0F1437&message=Python)
-![Javascript](https://img.shields.io/static/v1?label=%20&logo=javascript&logoColor=yellow&color=0F1437&message=Javascript)
-![RPA](https://img.shields.io/static/v1?label=%20&logo=rpa&logoColor=red&color=0F1437&message=RPA)
-![Selenium](https://img.shields.io/static/v1?label=%20&logo=Selenium&logoColor=yellow&color=0F1437&message=Selenium)
-![ETL](https://img.shields.io/static/v1?label=%20&logo=Kdenlive&logoColor=blue&color=0F1437&message=ETL)
-![Pandas](https://img.shields.io/static/v1?label=%20&logo=foodpanda&logoColor=white&color=0F1437&message=Pandas)
-![DataLake](https://img.shields.io/static/v1?label=%20&logo=Openlayers&logoColor=blue&color=0F1437&message=Data%20Lake)
-![DataWarehouse](https://img.shields.io/static/v1?label=%20&logo=Openlayers&logoColor=blue&color=0F1437&message=Data%20Warehouse)
-![DataMarts](https://img.shields.io/static/v1?label=%20&logo=Openlayers&logoColor=blue&color=0F1437&message=Data%20Marts)
+![Python](https://img.shields.io/static/v1?label=%20&logo=python&logoColor=green&color=5F6469&message=Python)
+![Javascript](https://img.shields.io/static/v1?label=%20&logo=javascript&logoColor=yellow&color=5F6469&message=Javascript)
+![RPA](https://img.shields.io/static/v1?label=%20&logo=rpa&logoColor=red&color=5F6469&message=RPA)
+![Selenium](https://img.shields.io/static/v1?label=%20&logo=Selenium&logoColor=yellow&color=5F6469&message=Selenium)
+![ETL](https://img.shields.io/static/v1?label=%20&logo=Kdenlive&logoColor=blue&color=5F6469&message=ETL)
+![Pandas](https://img.shields.io/static/v1?label=%20&logo=foodpanda&logoColor=white&color=5F6469&message=Pandas)
+![DataLake](https://img.shields.io/static/v1?label=%20&logo=Openlayers&logoColor=blue&color=5F6469&message=Data%20Lake)
+![DataWarehouse](https://img.shields.io/static/v1?label=%20&logo=Openlayers&logoColor=blue&color=5F6469&message=Data%20Warehouse)
+![DataMarts](https://img.shields.io/static/v1?label=%20&logo=Openlayers&logoColor=blue&color=5F6469&message=Data%20Marts)
 
 </p>
-
-
 
 <p>
 
 ![Intermediary](https://img.shields.io/static/v1?label=%20&message=Intermediary:&color=yellow)
-![ElasticSearch](https://img.shields.io/static/v1?label=%20&logo=Elasticsearch&logoColor=blue&color=0F1437&message=Elastic)
-![PySpark](https://img.shields.io/static/v1?label=%20&logo=apacheSpark&logoColor=yellow&color=0F1437&message=PySpark)
-![DeltaLake](https://img.shields.io/static/v1?label=%20&logo=Openlayers&logoColor=blue&color=0F1437&message=Delta%20Lake)
+![ElasticSearch](https://img.shields.io/static/v1?label=%20&logo=Elasticsearch&logoColor=blue&color=5F6469&message=Elastic)
+![PySpark](https://img.shields.io/static/v1?label=%20&logo=apacheSpark&logoColor=yellow&color=5F6469&message=PySpark)
+![DeltaLake](https://img.shields.io/static/v1?label=%20&logo=Openlayers&logoColor=blue&color=5F6469&message=Delta%20Lake)
 
 </p>
-
-
 
 <p>
 
 ![Basic](https://img.shields.io/static/v1?label=%20&message=Basic:&color=blue)
-![Docker](https://img.shields.io/static/v1?label=%20&logo=Docker&logoColor=blue&color=0F1437&message=Docker)
-![Kubernetes](https://img.shields.io/static/v1?label=%20&logo=Kubernetes&logoColor=17A5A0&color=0F1437&message=Kubernetes)
-![Airflow](https://img.shields.io/static/v1?label=%20&logo=ApacheAirflow&logoColor=blue&color=0F1437&message=AirFlow)
+![Docker](https://img.shields.io/static/v1?label=%20&logo=Docker&logoColor=blue&color=5F6469&message=Docker)
+![Kubernetes](https://img.shields.io/static/v1?label=%20&logo=Kubernetes&logoColor=17A5A0&color=5F6469&message=Kubernetes)
+![Airflow](https://img.shields.io/static/v1?label=%20&logo=ApacheAirflow&logoColor=blue&color=5F6469&message=AirFlow)
 
 </p>
 
 <h2 align="left">I use in AWS</h2>
-
-
 <p>
 
 ![Advanced](https://img.shields.io/static/v1?label=%20&message=Advanced:&color=red)
@@ -134,7 +108,6 @@ https://github.com/luong-komorebi/Markdown-Tutorial/blob/master/README_pt-BR.md
 
 </p><p>
 
-
 ![Basic](https://img.shields.io/static/v1?label=%20&message=Basic:&color=blue)
 ![EMR](https://img.shields.io/static/v1?logo=amazon&label=%20&message=EMR&color=425967)
 ![Redshift](https://img.shields.io/static/v1?logo=amazon&label=%20&message=RedShift&color=425967)
@@ -145,8 +118,6 @@ https://github.com/luong-komorebi/Markdown-Tutorial/blob/master/README_pt-BR.md
 
 </p>
 
-
-<br>
 <h2 align="left">Profile status</h2>
 <div align="center">
   
