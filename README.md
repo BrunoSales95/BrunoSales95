@@ -17,6 +17,11 @@ https://www.rapidtables.com/convert/color/rgb-to-hex.html
 
 Link da Documentação do Markdown:
 https://github.com/luong-komorebi/Markdown-Tutorial/blob/master/README_pt-BR.md
+
+Link Templates para perfil:
+https://github.com/rzashakeri/beautify-github-profile
+
+
 -->
 <h1 align="left">Hi, I'm Bruno Sales 👨🏻‍💻</h1>
 
@@ -30,7 +35,7 @@ https://github.com/luong-komorebi/Markdown-Tutorial/blob/master/README_pt-BR.md
   ☁  I'm currently focusing on the stack AWS <br>
   🎲  I'm studying the MBA in Data Engineering at IGTI - XPE<br>
   💰  In my free time I try to learn about stocks, investments and financial education<br>
-  🎵  Among my hobbies are dancing, music, percussion and ORPG games
+  🎵  Among my hobbies are dancing, music, percussion and RPG games
 </p>
    
   
