@@ -9,9 +9,10 @@ https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR
 -->
 
 
-<h1 align="left">Hi, I'm Bruno Sales 🙋note♂️</h1>
+<h1 align="left">Hi, I'm Bruno Sales 👨🏻‍💻</h1>
 
 ###
+
 
 <p align="left">I'm a Data Analytics</p>
 
@@ -21,7 +22,16 @@ https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR
 
 ###
 
-<p align="left">👨‍💻 React Native Hybrid Mobile Development<br>📖 I'm currently learning React Native<br>🎲 Study native android development with Java<br>🎯 Work with React Native</p>
+<p align="left">
+  👨‍💻  Working with ETL, RPA and web scraping<br>
+  🧠  I specialize in Neuroscience applied to education<br>
+  ☁  I'm currently focusing on the stack AWS <br>
+  🎲  I'm studying the MBA in Data Engineering at IGTI - XPE<br>
+  💰  In my free time I try to learn about stocks, investments, financial education<br>
+  🎵  Among my hobbies are dancing, music, percussion, RPG games<br>
+</p>
+   
+  
 
 ###
 
@@ -73,13 +83,17 @@ https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR
 ###
 
 
-<h2 align="left">Profile status</h2>
-
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=brunosales95" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&username=brunosales95" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&username=brunosales95" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&username=brunosales95" height="150" alt="languages graph"  />
 </div>
 
+<br>
+<h2 align="left">Profile status</h2>
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
