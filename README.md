@@ -65,7 +65,7 @@ https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR
   
   
   <img src="https://pics.freeicons.io/uploads/icons/png/18181230061536126577-512.png" height="32" width="32" alt="redux logo"  />
-  <img src="https://pics.freeicons.io/uploads/icons/png/13691885491579517854-512.png" height="32" width="32" alt="javascript"  />
+  <img src="[https://pics.freeicons.io/uploads/icons/png/13691885491579517854-512.png" height="32" width="32" alt="javascript"  />
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32" width="32" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="32" width="32" alt="typescript logo"  />
