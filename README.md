@@ -7,9 +7,18 @@ https://shields.io/
 https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR
 https://dev.to/search?q=nome
 
+Links logos  do shields:
+https://simpleicons.org/?q=aws
 
-Links uteis
+Links Stats do Github:
 https://github.com/anuraghazra/github-readme-stats
+
+
+Link de cor em hexadecimal
+https://www.rapidtables.com/convert/color/rgb-to-hex.html
+
+Link da Documentação do Markdown:
+https://github.com/luong-komorebi/Markdown-Tutorial/blob/master/README_pt-BR.md
 -->
 
 
@@ -17,15 +26,15 @@ https://github.com/anuraghazra/github-readme-stats
 
 
 
-###
+
 
 <p align="left">I'm a Data Analytics</p>
 
-###
+
 
 <h2 align="left">About me</h2>
 
-###
+
 
 <p align="left">
   👨‍💻  Working with ETL, RPA and web scraping<br>
@@ -37,11 +46,9 @@ https://github.com/anuraghazra/github-readme-stats
 </p>
    
   
-###
+
 
 <h2 align="left">Connect with me</h2>
-
-###
 
 
 
@@ -60,26 +67,52 @@ https://github.com/anuraghazra/github-readme-stats
   </a>
 </div>
 
-###
+
 
 <h2 align="left">I code with</h2>
 
-###
-<p>
-  
-![Python](https://img.shields.io/static/v1?label=Python&message=Advanced&logo=python&logoColor=green&color=red)
-![JavaScript](https://img.shields.io/static/v1?label=JavaScript&message=Intermediary&logo=javascript&color=yellow)
 
-</p><p>
-  
-![SQL](https://img.shields.io/static/v1?label=SQL&message=Advanced&color=red)![MySQL](https://img.shields.io/static/v1?label=MySQL&message=Advanced&color=red)
-![AWS](https://img.shields.io/static/v1?label=AWS&message=Intermediary&logo=amazon&color=yellow)
-  
+
+<p>
+
+![Advanced](https://img.shields.io/static/v1?label=%20&message=Advanced:&color=red)
+![Python](https://img.shields.io/static/v1?label=%20&logo=python&logoColor=green&color=0F1437&message=Python)
+![Javascript](https://img.shields.io/static/v1?label=%20&logo=javascript&logoColor=yellow&color=0F1437&message=Javascript)
+![RPA](https://img.shields.io/static/v1?label=%20&logo=rpa&logoColor=red&color=0F1437&message=RPA)
+![Selenium](https://img.shields.io/static/v1?label=%20&logo=Selenium&logoColor=yellow&color=0F1437&message=Selenium)
+![ETL](https://img.shields.io/static/v1?label=%20&logo=Kdenlive&logoColor=blue&color=0F1437&message=ETL)
+![Pandas](https://img.shields.io/static/v1?label=%20&logo=foodpanda&logoColor=white&color=0F1437&message=Pandas)
+![DataLake](https://img.shields.io/static/v1?label=%20&logo=Openlayers&logoColor=blue&color=0F1437&message=Data%20Lake)
+![DataWarehouse](https://img.shields.io/static/v1?label=%20&logo=Openlayers&logoColor=blue&color=0F1437&message=Data%20Warehouse)
+![DataMarts](https://img.shields.io/static/v1?label=%20&logo=Openlayers&logoColor=blue&color=0F1437&message=Data%20Marts)
+
+</p>
+
+
+
+<p>
+
+![Intermediary](https://img.shields.io/static/v1?label=%20&message=Intermediary:&color=yellow)
+![ElasticSearch](https://img.shields.io/static/v1?label=%20&logo=Elasticsearch&logoColor=blue&color=0F1437&message=Elastic)
+![PySpark](https://img.shields.io/static/v1?label=%20&logo=apacheSpark&logoColor=yellow&color=0F1437&message=PySpark)
+![DeltaLake](https://img.shields.io/static/v1?label=%20&logo=Openlayers&logoColor=blue&color=0F1437&message=Delta%20Lake)
+
+</p>
+
+
+
+<p>
+
+![Basic](https://img.shields.io/static/v1?label=%20&message=Basic:&color=blue)
+![Docker](https://img.shields.io/static/v1?label=%20&logo=Docker&logoColor=blue&color=0F1437&message=Docker)
+![Kubernetes](https://img.shields.io/static/v1?label=%20&logo=Kubernetes&logoColor=17A5A0&color=0F1437&message=Kubernetes)
+![Airflow](https://img.shields.io/static/v1?label=%20&logo=ApacheAirflow&logoColor=blue&color=0F1437&message=AirFlow)
+
 </p>
 
 <h2 align="left">I use in AWS</h2>
 
-###
+
 <p>
 
 ![Advanced](https://img.shields.io/static/v1?label=%20&message=Advanced:&color=red)
@@ -112,7 +145,7 @@ https://github.com/anuraghazra/github-readme-stats
 
 </p>
 
-###
+
 <br>
 <h2 align="left">Profile status</h2>
 <div align="center">
