@@ -56,52 +56,51 @@ https://github.com/rzashakeri/beautify-github-profile
   </a>
 </div>
 
-<h2 align="left">I code with</h2>
+<h2 align="left">I code using</h2>
 
 <p>
 
 ![Advanced](https://img.shields.io/static/v1?label=%20&message=Advanced:&color=red)
 ![Python](https://img.shields.io/static/v1?label=%20&logo=python&logoColor=green&color=5F6469&message=Python)
 ![Javascript](https://img.shields.io/static/v1?label=%20&logo=javascript&logoColor=yellow&color=5F6469&message=Javascript)
-![RPA](https://img.shields.io/static/v1?label=%20&logo=rpa&logoColor=red&color=5F6469&message=RPA)
+![RPA](https://img.shields.io/static/v1?label=%20&logo=Corona%20Engine&logoColor=red&color=5F6469&message=RPA)
 ![Selenium](https://img.shields.io/static/v1?label=%20&logo=Selenium&logoColor=yellow&color=5F6469&message=Selenium)
-![ETL](https://img.shields.io/static/v1?label=%20&logo=Kdenlive&logoColor=blue&color=5F6469&message=ETL)
+![ETL](https://img.shields.io/static/v1?label=%20&logo=Kdenlive&color=5F6469&message=ETL)
 ![Pandas](https://img.shields.io/static/v1?label=%20&logo=foodpanda&logoColor=white&color=5F6469&message=Pandas)
-![DataLake](https://img.shields.io/static/v1?label=%20&logo=Openlayers&logoColor=blue&color=5F6469&message=Data%20Lake)
-![DataWarehouse](https://img.shields.io/static/v1?label=%20&logo=Openlayers&logoColor=blue&color=5F6469&message=Data%20Warehouse)
-![DataMarts](https://img.shields.io/static/v1?label=%20&logo=Openlayers&logoColor=blue&color=5F6469&message=Data%20Marts)
-![SQL](https://img.shields.io/static/v1?label=%20&logo=Openlayers&logoColor=blue&color=5F6469&message=SQL)
-![MySQL](https://img.shields.io/static/v1?label=%20&logo=Openlayers&logoColor=blue&color=5F6469&message=MySQL)
-![PL-SQL](https://img.shields.io/static/v1?label=%20&logo=Openlayers&logoColor=blue&color=5F6469&message=PL-SQL)
-![GIT](https://img.shields.io/static/v1?label=%20&logo=Openlayers&logoColor=blue&color=5F6469&message=GIT)
-![AGILE SCRUM](https://img.shields.io/static/v1?label=%20&logo=Openlayers&logoColor=blue&color=5F6469&message=Agile%20Scrum)
-![Linux](https://img.shields.io/static/v1?label=%20&logo=Openlayers&logoColor=blue&color=5F6469&message=Linux)
-
-
-
-
+![SQLite](https://img.shields.io/static/v1?label=%20&logo=sqlite&color=5F6469&message=SQLite)
+![SQL](https://img.shields.io/static/v1?label=%20&logo=Microsoft%20SQL%20Server&color=5F6469&message=SQL)
+![MySQL](https://img.shields.io/static/v1?label=%20&logo=MySQL&color=5F6469&message=MySQL&logoColor=orange)
+![PL-SQL](https://img.shields.io/static/v1?label=%20&logo=Oracle&color=5F6469&message=PL-SQL)
+![GIT](https://img.shields.io/static/v1?label=%20&logo=Git&color=5F6469&message=GIT)
+![AGILE SCRUM](https://img.shields.io/static/v1?label=%20&logo=SEAT&color=5F6469&message=Agile%20Scrum)
+![Linux](https://img.shields.io/static/v1?label=%20&logo=Linux&color=5F6469&message=Linux)
 
 </p>
 
 <p>
 
 ![Intermediary](https://img.shields.io/static/v1?label=%20&message=Intermediary:&color=yellow)
-![ElasticSearch](https://img.shields.io/static/v1?label=%20&logo=Elasticsearch&logoColor=blue&color=5F6469&message=Elastic)
+![DataLake](https://img.shields.io/static/v1?label=%20&logo=Square&color=5F6469&message=Data%20Lake)
+![DataWarehouse](https://img.shields.io/static/v1?label=%20&logo=Hack%20The%20Box&color=5F6469&message=Data%20Warehouse)
+![DataMarts](https://img.shields.io/static/v1?label=%20&logo=Liquibase&color=5F6469&message=Data%20Marts&logoColor=red)
+![ElasticSearch](https://img.shields.io/static/v1?label=%20&logo=Elasticsearch&color=5F6469&message=Elastic)
 ![PySpark](https://img.shields.io/static/v1?label=%20&logo=apacheSpark&logoColor=yellow&color=5F6469&message=PySpark)
-![DeltaLake](https://img.shields.io/static/v1?label=%20&logo=Openlayers&logoColor=blue&color=5F6469&message=Delta%20Lake)
-![Agile Kanban](https://img.shields.io/static/v1?label=%20&logo=Openlayers&logoColor=blue&color=5F6469&message=Agile%20Kanban)
-![Grafana](https://img.shields.io/static/v1?label=%20&logo=Openlayers&logoColor=blue&color=5F6469&message=Grafana)
+![DeltaLake](https://img.shields.io/static/v1?label=%20&logo=Openlayers&color=5F6469&message=Delta%20Lake)
+![Agile Kanban](https://img.shields.io/static/v1?label=%20&logo=KDE&color=5F6469&message=Agile%20Kanban)
+![Grafana](https://img.shields.io/static/v1?label=%20&logo=grafana&color=5F6469&message=Grafana)
 
 </p>
 
 <p>
 
 ![Basic](https://img.shields.io/static/v1?label=%20&message=Basic:&color=blue)
-![Docker](https://img.shields.io/static/v1?label=%20&logo=Docker&logoColor=blue&color=5F6469&message=Docker)
+![Docker](https://img.shields.io/static/v1?label=%20&logo=Docker&color=5F6469&message=Docker)
+![Docker Compose](https://img.shields.io/static/v1?label=%20&logo=Docs.rs&color=5F6469&message=Docker%20Compose)
 ![Kubernetes](https://img.shields.io/static/v1?label=%20&logo=Kubernetes&logoColor=17A5A0&color=5F6469&message=Kubernetes)
-![Airflow](https://img.shields.io/static/v1?label=%20&logo=ApacheAirflow&logoColor=blue&color=5F6469&message=AirFlow)
-![Power Bi](https://img.shields.io/static/v1?label=%20&logo=Openlayers&logoColor=blue&color=5F6469&message=Power%20Bi)
-![ELK](https://img.shields.io/static/v1?label=%20&logo=Openlayers&logoColor=blue&color=5F6469&message=ELK)
+![Airflow](https://img.shields.io/static/v1?label=%20&logo=ApacheAirflow&color=5F6469&message=AirFlow)
+![Power Bi](https://img.shields.io/static/v1?label=%20&logo=Power%20BI&color=5F6469&message=Power%20Bi)
+![ELK](https://img.shields.io/static/v1?label=%20&logo=Elastic%20Stack&color=5F6469&message=Elastic%20Stack-ELK)
+![Kafka](https://img.shields.io/static/v1?label=%20&logo=Apache%20Kafka&color=5F6469&message=Kafka)
 
 
 </p>
