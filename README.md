@@ -33,7 +33,7 @@ https://github.com/rzashakeri/beautify-github-profile
   👨‍💻  Working with ETL, RPA and web scraping<br>
   🧠  I specialize in Neuroscience applied to education<br>
   ☁  I'm currently focusing on the stack AWS <br>
-  🎲  I'm studying the MBA in Data Engineering at IGTI - XPE<br>
+  🎲  I'm studying the MBA in Data Engineering<br>
   💰  In my free time I try to learn about stocks, investments and financial education<br>
   🎵  Among my hobbies are dancing, music, percussion and RPG games
 </p>
