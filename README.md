@@ -70,6 +70,16 @@ https://github.com/rzashakeri/beautify-github-profile
 ![DataLake](https://img.shields.io/static/v1?label=%20&logo=Openlayers&logoColor=blue&color=5F6469&message=Data%20Lake)
 ![DataWarehouse](https://img.shields.io/static/v1?label=%20&logo=Openlayers&logoColor=blue&color=5F6469&message=Data%20Warehouse)
 ![DataMarts](https://img.shields.io/static/v1?label=%20&logo=Openlayers&logoColor=blue&color=5F6469&message=Data%20Marts)
+![SQL](https://img.shields.io/static/v1?label=%20&logo=Openlayers&logoColor=blue&color=5F6469&message=SQL)
+![MySQL](https://img.shields.io/static/v1?label=%20&logo=Openlayers&logoColor=blue&color=5F6469&message=MySQL)
+![PL-SQL](https://img.shields.io/static/v1?label=%20&logo=Openlayers&logoColor=blue&color=5F6469&message=PL-SQL)
+![GIT](https://img.shields.io/static/v1?label=%20&logo=Openlayers&logoColor=blue&color=5F6469&message=GIT)
+![AGILE SCRUM](https://img.shields.io/static/v1?label=%20&logo=Openlayers&logoColor=blue&color=5F6469&message=Agile%20Scrum)
+![Linux](https://img.shields.io/static/v1?label=%20&logo=Openlayers&logoColor=blue&color=5F6469&message=Linux)
+
+
+
+
 
 </p>
 
@@ -79,6 +89,8 @@ https://github.com/rzashakeri/beautify-github-profile
 ![ElasticSearch](https://img.shields.io/static/v1?label=%20&logo=Elasticsearch&logoColor=blue&color=5F6469&message=Elastic)
 ![PySpark](https://img.shields.io/static/v1?label=%20&logo=apacheSpark&logoColor=yellow&color=5F6469&message=PySpark)
 ![DeltaLake](https://img.shields.io/static/v1?label=%20&logo=Openlayers&logoColor=blue&color=5F6469&message=Delta%20Lake)
+![Agile Kanban](https://img.shields.io/static/v1?label=%20&logo=Openlayers&logoColor=blue&color=5F6469&message=Agile%20Kanban)
+![Grafana](https://img.shields.io/static/v1?label=%20&logo=Openlayers&logoColor=blue&color=5F6469&message=Grafana)
 
 </p>
 
@@ -88,6 +100,9 @@ https://github.com/rzashakeri/beautify-github-profile
 ![Docker](https://img.shields.io/static/v1?label=%20&logo=Docker&logoColor=blue&color=5F6469&message=Docker)
 ![Kubernetes](https://img.shields.io/static/v1?label=%20&logo=Kubernetes&logoColor=17A5A0&color=5F6469&message=Kubernetes)
 ![Airflow](https://img.shields.io/static/v1?label=%20&logo=ApacheAirflow&logoColor=blue&color=5F6469&message=AirFlow)
+![Power Bi](https://img.shields.io/static/v1?label=%20&logo=Openlayers&logoColor=blue&color=5F6469&message=Power%20Bi)
+![ELK](https://img.shields.io/static/v1?label=%20&logo=Openlayers&logoColor=blue&color=5F6469&message=ELK)
+
 
 </p>
 
@@ -110,6 +125,8 @@ https://github.com/rzashakeri/beautify-github-profile
 ![EC2](https://img.shields.io/static/v1?logo=amazon&label=%20&message=Glue&color=425967)
 ![RDS](https://img.shields.io/static/v1?logo=amazon&label=%20&message=RDS&color=425967)
 ![Athena](https://img.shields.io/static/v1?logo=amazon&label=%20&message=Athena&color=425967)
+![Quick Sight](https://img.shields.io/static/v1?logo=amazon&label=%20&message=Quick%20Sight&color=425967)
+
 
 </p><p>
 
