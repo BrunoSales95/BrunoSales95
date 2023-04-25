@@ -121,9 +121,8 @@ https://github.com/rzashakeri/beautify-github-profile
 ![CloudWatch](https://img.shields.io/static/v1?logo=amazon&label=%20&message=CloudWatch&color=425967)
 ![Step_Function](https://img.shields.io/static/v1?logo=amazon&label=%20&message=Step%20Function&color=425967)
 ![Glue](https://img.shields.io/static/v1?logo=amazon&label=%20&message=Glue&color=425967)
-![EC2](https://img.shields.io/static/v1?logo=amazon&label=%20&message=Glue&color=425967)
+![EC2](https://img.shields.io/static/v1?logo=amazon&label=%20&message=EC2&color=425967)
 ![RDS](https://img.shields.io/static/v1?logo=amazon&label=%20&message=RDS&color=425967)
-![Athena](https://img.shields.io/static/v1?logo=amazon&label=%20&message=Athena&color=425967)
 ![Quick Sight](https://img.shields.io/static/v1?logo=amazon&label=%20&message=Quick%20Sight&color=425967)
 
 
@@ -136,7 +135,7 @@ https://github.com/rzashakeri/beautify-github-profile
 ![ECS](https://img.shields.io/static/v1?logo=amazon&label=%20&message=ECS&color=425967)
 ![API_Gateway](https://img.shields.io/static/v1?logo=amazon&label=%20&message=API%20Gateway&color=425967)
 ![DynamoDB](https://img.shields.io/static/v1?logo=amazon&label=%20&message=DynamoDB&color=425967)
-
+![Athena](https://img.shields.io/static/v1?logo=amazon&label=%20&message=Athena&color=425967)
 </p>
 
 <h2 align="left">Profile status</h2>
