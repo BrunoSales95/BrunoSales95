@@ -57,7 +57,7 @@ https://github.com/rzashakeri/beautify-github-profile
   <a href="https://www.instagram.com/bruno.salless/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="32" height="32" alt="instagram logo"  />
   </a>
-  <a href="[https://www.instagram.com/bruno.salless/](https://api.whatsapp.com/send?phone=5511973110632)" target="_blank">
+  <a href="https://api.whatsapp.com/send?phone=5511973110632" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="32" height="32" alt="instagram logo"  />
   </a>
 </div>
