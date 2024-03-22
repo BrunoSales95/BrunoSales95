@@ -2,6 +2,8 @@
 Links para Icones:
 https://freeicons.io/search/icons?q=nome
 
+
+
 Link de botão
 https://shields.io/
 https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR
@@ -25,7 +27,8 @@ https://github.com/rzashakeri/beautify-github-profile
 -->
 <h1 align="left">Hi, I'm Bruno Sales 👨🏻‍💻</h1>
 
-<p align="left">I'm a Data Analytics</p>
+<p align="left">I'm a Data Engineer</p>
+
 
 <h2 align="left">About me</h2>
 
@@ -53,6 +56,9 @@ https://github.com/rzashakeri/beautify-github-profile
   </a>
   <a href="https://www.instagram.com/bruno.salless/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="32" height="32" alt="instagram logo"  />
+  </a>
+  <a href="[https://www.instagram.com/bruno.salless/](https://api.whatsapp.com/send?phone=5511973110632)" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="32" height="32" alt="instagram logo"  />
   </a>
 </div>
 
